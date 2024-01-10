@@ -2,5 +2,9 @@
 
 A recipe website
 
-The main index page have links to a few recipes
+The skills that I am picking up from this project are :
+
+HTML
+Git Basics
+
 
