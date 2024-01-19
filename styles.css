@@ -1,0 +1,69 @@
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background:  #e6b980 
+}
+
+h1 {
+    text-align: center;
+    color: #402a23;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    
+}
+
+.container {
+    text-align: center;
+}
+
+.recipe-link {
+    
+    color: #402a23;
+    display: inline-block;
+    text-align: left;
+    font-size:x-large;
+    margin-top: 30px;
+    
+    
+}
+
+.recipe-in {
+    color: #402a23;
+    display: inline-block;
+    text-align: left;
+    font-size:medium;
+    margin-top: 5px;
+
+}
+
+.oli {
+    display: inline-block;
+    text-align: left;
+    font-size:medium;
+    
+
+}
+
+.oli li {
+
+    margin-bottom: 0.5em;
+}
+
+
+
+.recipe-link li {
+
+    margin-bottom: 0.8em;
+}
+
+
+
+
+a {
+    color:inherit;
+
+}
